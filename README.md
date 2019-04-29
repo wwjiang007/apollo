@@ -276,6 +276,22 @@ The project is licensed under the [Apache 2 license](https://github.com/ctripcor
 ![申通](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/sto.png) 
 ![金和网络](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/jinhe.png) 
 ![二三四五](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/2345.png) 
+![恒天财富](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/chtwm.jpg) 
+![沐雪微信](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/uweixin.png) 
+![温州医科大学附属眼视光医院](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/wzeye.png) 
+![联通支付](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/10010pay.png) 
+![杉数科技](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/shanshu.png) 
+![分利宝](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/fenlibao.png) 
+![核桃编程](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/hetao101.png) 
+![小红书](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/xiaohongshu.png) 
+![幸福西饼](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/blissmall.png) 
+![跨越速运](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/ky-express.png) 
+![OYO](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/oyohotels.png) 
+![叮咚买菜](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/100-me.png) 
+![智道网联](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/zhidaohulian.jpg) 
+![雪球](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/xueqiu.jpg) 
+![车通云](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/autocloudpro.png) 
+![哒哒英语](https://raw.githubusercontent.com/ctripcorp/apollo-community/master/images/known-users/dadaabc.png) 
 
 # Awards
 
